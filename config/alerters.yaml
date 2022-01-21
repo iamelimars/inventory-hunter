@@ -1,6 +1,6 @@
 alerters:
   discord:
-    webhook_url: https://discord.com/api/webhooks/927770458949046362/NIRpgnTD0_HoN16YpY-0iP-0D9YMg0yOJVIszXuKdZtIYI8Z4r816a6XgiWlKeyJQ_Mx
+    webhook_url: XXXXXXXXXXXXXXXXXXXXXX
     mentions:
       - XXXXXXXXXXXXXXX
       - XXXXXXXXXXXXXXX
